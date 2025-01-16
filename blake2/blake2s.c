@@ -1,7 +1,7 @@
 // blake2s.c
 // A simple blake2s Reference Implementation.
 
-#include "blake2/blake2s.h"
+#include "include/blake2s.h"
 
 // Cyclic right rotation.
 
